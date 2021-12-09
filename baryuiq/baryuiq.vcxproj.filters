@@ -18,5 +18,8 @@
     <ClCompile Include="zad2_08_12_2021.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="zad1_09_12_2021.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
